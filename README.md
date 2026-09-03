@@ -8,6 +8,7 @@
 ## 🌟 1. Project Overview
 
 **CLASSORA AI** is a production-grade hackathon platform built around **Agora Conversational AI** and **Agora RTC**. 
+👉 **[Open Agora Project](https://github.com/DISHITACHAUHAN/classora-AI/tree/main/agora)**
 
 The goal of Classora AI is **NOT** to replace the teacher. Rather, Classora AI operates as an empathetic, context-aware co-teacher that:
 - Listens to ongoing classroom discussions
@@ -31,7 +32,18 @@ The goal of Classora AI is **NOT** to replace the teacher. Rather, Classora AI o
 | **Unnoticed Learning Gaps** | When multiple students silently struggle with the same core misunderstanding, teachers only discover it weeks later in written exams. |
 
 ---
+## Project Structure
 
+```text
+classora-AI/
+│
+├── agora/
+│   ├── backend/
+│   ├── frontend/
+│   └── .env.example
+│
+└── README.md
+```
 ## 🏗️ 3. Architecture & Agora Voice Pipeline
 
 ```
