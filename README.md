@@ -32,18 +32,7 @@ The goal of Classora AI is **NOT** to replace the teacher. Rather, Classora AI o
 | **Unnoticed Learning Gaps** | When multiple students silently struggle with the same core misunderstanding, teachers only discover it weeks later in written exams. |
 
 ---
-## Project Structure
 
-```text
-classora-AI/
-│
-├── agora/
-│   ├── backend/
-│   ├── frontend/
-│   └── .env.example
-│
-└── README.md
-```
 ## 🏗️ 3. Architecture & Agora Voice Pipeline
 
 ```
@@ -123,9 +112,23 @@ Agora is the core pillar of Classora AI. The integration leverages:
 - Python 3.10+ (Tested on Python 3.14)
 - Node.js 18+ (Node.js v20 LTS included)
 
+## Project Structure
+
+```text
+classora-AI/
+│
+├── agora/
+│   ├── backend/
+│   ├── frontend/
+│   └── .env.example
+│
+└── README.md
+```
+
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/your-repo/classora-ai.git
+git clone https://github.com/DISHITACHAUHAN/classora-AI.git
+cd classora-AI
 cd agora
 ```
 
