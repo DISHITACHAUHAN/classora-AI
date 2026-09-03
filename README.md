@@ -112,7 +112,7 @@ Agora is the core pillar of Classora AI. The integration leverages:
 - Python 3.10+ (Tested on Python 3.14)
 - Node.js 18+ (Node.js v20 LTS included)
 
-## Project Structure
+### Project Structure
 
 ```text
 classora-AI/
